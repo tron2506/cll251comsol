@@ -1,0 +1,1 @@
+now trying to divide the study into two time dependent steps mentioned in the numerical methods of the 1008 pdf.
