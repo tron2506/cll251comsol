@@ -1,1 +1,7 @@
+i changed the value of activation energy of the reaction to 72.5kJ/mol. it worked in 0-D but not working in 3D.
+
+
+
+
 now trying to divide the study into two time dependent steps mentioned in the numerical methods of the 1008 pdf.
+
