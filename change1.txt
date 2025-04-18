@@ -1,5 +1,6 @@
 i changed the value of activation energy of the reaction to 72.5kJ/mol. it worked in 0-D but not working in 3D.
 
+okay, now the latest version of the file works in 3-D but the laminar open layer boundary is not enabled, when enabled it takes way too long to compute. i think i would need to use the baadal vm.
 
 
 
